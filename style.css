@@ -1,0 +1,25 @@
+body
+{
+    color:black;
+    background:url("hfh.jfif");
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    width: 50%;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 3px dotted rgba(255, 0, 0, 0.603);
+}
+
+.name_of_objects, #result_object_name,#result_object_accuracy{
+    color: rgb(240, 26, 186);
+}
